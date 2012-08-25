@@ -13,7 +13,7 @@ Available via CodeIgniter Sparks. For info about how to install sparks, go here:
 You can then load the spark with this:
 
 ```php
-$this->load->spark('codeigniter-simplepie/[version #]/');
+$this->load->spark('codeigniter-simplepie/1.0.0/');
 ```
 
 or by autoloading:
