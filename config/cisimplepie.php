@@ -7,7 +7,7 @@
 |
 | Set the output encoding
 |
-|	Default: UTF-*
+|	Default: UTF-8
 |
 */
 
