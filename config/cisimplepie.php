@@ -51,6 +51,6 @@ $config['set_cache_duration'] = 3600;
 |
 */
 
-$config['set_cache_location'] = APPPATH.'transient/cache/';
+$config['set_cache_location'] = APPPATH.'cache/';
 
 ?>
